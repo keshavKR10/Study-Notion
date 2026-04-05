@@ -126,4 +126,5 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 Access the application in your browser at `http://localhost:3000`.
 
 # Study-Notion
+Yess buddy injoy it 
 
